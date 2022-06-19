@@ -3,17 +3,18 @@
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
 
 2. Write a java program to writer content in a file.
-#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Writer.java
 
 3. Write a java program to copy the content of one file to another.
-#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/CopyFile.java
 
 4. Write a java program to show connection between client and server.
-#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
-#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Myclient.java
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Myserver.java
 
 5. Write a java program for applet. 
-#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Applet.java
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Applet.html
 
 6. Write a java program for swing GUI. 
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
