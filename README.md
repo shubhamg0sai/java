@@ -17,19 +17,19 @@
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Applet.html
 
 6. Write a java program for swing GUI. 
-#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/EmployeeSalary.java
 
 7. Write a java program to create a table using JDBC. 
-#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/creation.java
 
 8. Write a java program to insert data in a table a table using JDBC application.
-#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/insertion.java
 
 9. Write a java program update records in a table using JDBC application.
-#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/updation.java
 
 10. Write a java program delete records from a table using JDBC application.
-#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/deletion.java
 
 
 
