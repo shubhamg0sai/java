@@ -1,38 +1,33 @@
 # java
 1. Write a java program to read the content of a file.
-/*
-import java.io.FileReader;
-public class Reader {
- public static void main(String[] args) throws Exception {
- FileReader fr=new FileReader("writer.txt");
- int i;
- while((i=fr.read()) != -1){
- System.out.println((char)i);
- }
- fr.close();
- }
-}
-
-*/
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
 
 Write a java program to writer content in a file.
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
 
 Write a java program to copy the content of one file to another.
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
 
 Write a java program to show connection between client and server.
-
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
 Write a java program for applet. 
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
 
 Write a java program for swing GUI. 
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
 
 Write a java program to create a table using JDBC. 
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
 
 Write a java program to insert data in a table a table using JDBC application.
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
 
 Write a java program update records in a table using JDBC application.
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
 
 Write a java program delete records from a table using JDBC application.
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
 
 
 
