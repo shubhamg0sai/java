@@ -1,4 +1,5 @@
 # java
+
 1. Write a java program to read the content of a file.
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
 
@@ -12,12 +13,16 @@
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Myclient.java
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Myserver.java
 
+# Applet
+
 5. Write a java program for applet. 
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Applet.java
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Applet.html
 
 6. Write a java program for swing GUI. 
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/EmployeeSalary.java
+ 
+#jdbc 
 
 7. Write a java program to create a table using JDBC. 
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/creation.java
