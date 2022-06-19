@@ -1,5 +1,19 @@
 # java
-Write a java program to read the content of a file.
+1. Write a java program to read the content of a file.
+/*
+import java.io.FileReader;
+public class Reader {
+ public static void main(String[] args) throws Exception {
+ FileReader fr=new FileReader("writer.txt");
+ int i;
+ while((i=fr.read()) != -1){
+ System.out.println((char)i);
+ }
+ fr.close();
+ }
+}
+
+*/
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Reader.java
 
 Write a java program to writer content in a file.
