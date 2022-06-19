@@ -13,6 +13,35 @@
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Myclient.java
 #https://raw.githubusercontent.com/shubhamg0sai/java/Delete/Myserver.java
 
+
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/File.java
+
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/File.java
+
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/File.java
+
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/File.java
+
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/File.java
+
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/File.java
+
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/File.java
+
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/File.java
+
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/File.java
+
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/File.java
+
+#https://raw.githubusercontent.com/shubhamg0sai/java/Delete/File.java
+
+
+
+
+
+
+
 # Applet
 
 5. Write a java program for applet. 
